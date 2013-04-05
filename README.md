@@ -5,7 +5,7 @@
 ### 4 April 2013
 
 * [Typescript for Dummies](https://speakerdeck.com/santiagoaguiar/typescript-for-dummies) - [Santiago Aguiar](https://twitter.com/santiaguiar)
-* [Automating WebApp integration tests with Qunit, Selenium y PhantomJS](#) - [Héctor Quartino](https://twitter.com/cphoton)
+* [Automating WebApp integration tests with Qunit, Selenium y PhantomJS](https://speakerdeck.com/cphoton/automatizando-pruebas-unitarias-y-de-integracion-en-aplicaciones-web) - [Héctor Quartino](https://twitter.com/cphoton)
 
 ### 7 Febraury 2013
 

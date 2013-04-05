@@ -2,6 +2,11 @@
 
 ## Meetups
 
+### 4 April 2013
+
+* [Typescript for Dummies](https://speakerdeck.com/santiagoaguiar/typescript-for-dummies) - [Santiago Aguiar](https://twitter.com/santiaguiar)
+* [Automating WebApp integration tests with Qunit, Selenium y PhantomJS](#) - [Héctor Quartino](https://twitter.com/cphoton)
+
 ### 7 Febraury 2013
 
 * [Backbone](https://speakerdeck.com/elussich/introduccion-a-backbone-dot-js) - [Esteban Lussich](https://speakerdeck.com/elussich/introduccion-a-backbone-dot-js)

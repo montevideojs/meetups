@@ -21,3 +21,6 @@
 * [Javascript OO Programming](http://www.cherta.info/es/meetupjs/) - [Gabriel Chertok](https://github.com/cherta)
 * [MVVM usando knockoutjs](http://learn.knockoutjs.com/) - [Bart Calixto ](https://twitter.com/bartmax)
 * Otro blog en Node - [Eduardo Veiga](https://github.com/cinemascop89)
+
+### 4 de Junio 2015
+* [ECMAScript 2015](https://docs.google.com/presentation/d/1LUTFz7mNReNCIvCObZFjwPcavZ83dZV5qpNZdNGOZJc/edit?usp=sharing) - [Ignacio Alvarez](http://github.com/nachoaIvarez)

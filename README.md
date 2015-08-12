@@ -1,7 +1,5 @@
 # [The Montevideo Javascript Meetup Group](http://www.meetup.com/mvd-js)
 
-![JSConfUY 2015](https://pbs.twimg.com/media/CDdmeWEWYAAXbia.jpg:large)
-
 ## Meetups
 
 ### 4th June 2015
@@ -36,3 +34,5 @@
 * [Javascript OO Programming](http://www.cherta.info/es/meetupjs/) - [Gabriel Chertok](https://github.com/cherta)
 * [MVVM usando knockoutjs](http://learn.knockoutjs.com/) - [Bart Calixto ](https://twitter.com/bartmax)
 * Otro blog en Node - [Eduardo Veiga](https://github.com/cinemascop89)
+
+![JSConfUY 2015](https://pbs.twimg.com/media/CDdmeWEWYAAXbia.jpg:large)

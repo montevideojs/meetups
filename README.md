@@ -1,5 +1,7 @@
 # [The Montevideo Javascript Meetup Group](http://www.meetup.com/mvd-js)
 
+Si queres proponer un tema o charla para dar podes crear una issue en: https://github.com/mvdjs/meetups
+
 ## Meetups
 
 ### 4th June 2015

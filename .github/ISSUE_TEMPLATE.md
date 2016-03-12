@@ -1,8 +1,8 @@
-# [Titulo]
+# [Título]
 
-[Descripcion]
+[Descripción]
 
-[Requirimientos]
+[Requerimientos]
 
 [Tu Nombre] @[twitter]
 
